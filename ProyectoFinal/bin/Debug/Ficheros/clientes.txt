@@ -1,0 +1,2 @@
+C1;Jaime Elias;Flores Quispe;72883481;924655655;Masculino
+C2;Erick;Jeager;2269949;92465558;Masculino

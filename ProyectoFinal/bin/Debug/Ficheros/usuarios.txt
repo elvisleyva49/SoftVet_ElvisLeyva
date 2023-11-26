@@ -1,0 +1,8 @@
+administrador;elvis
+administrador02;jaime
+administrador03;jerson
+administrador05;jaime
+123456;123456
+123;123
+Jose;1010
+Jaime;8989

@@ -1,0 +1,7 @@
+EMP1;Juan;Juan;769856498;14-06-2000;Masculino;1231231321;02-02-2000;Recepcionista;08:00 am - 05:00 pm;1000
+EMP2;Juan;Juan;769856498;14-06-2000;Masculino;1231231321;02-02-2000;Recepcionista;08:00 am - 05:00 pm;1000
+EMP3;Juan;Juan;12313123;07-11-2023;Masculino;3213213;30-11-2023;Electricista;08:00 am - 12:00 pm;1800
+EMP4;Ericksen;Ayma;78986756;05-11-2023;-----;910295654;05-11-2023;Practicante;--:-- --:--;1300
+EMP5;Jorge;Muñox;655434455;15-11-2023;Femenino;3432332;07-06-2023;Pastor;08:00 am - 05:00 pm;200
+EMP6;dwad;dawdaw;321321;04-11-2023;Masculino;3232323;04-11-2023;ataa;12:00 pm - 05:00 pm;123
+EMP7;julliana;Mamani;3333333;04-11-2023;Femenino;99999999;04-11-2023;Limpieza;08:00 am - 12:00 pm;1400

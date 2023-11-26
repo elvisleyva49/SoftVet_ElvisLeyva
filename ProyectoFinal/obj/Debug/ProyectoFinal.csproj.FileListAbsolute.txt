@@ -1,0 +1,244 @@
+C:\Users\ELVIS\Desktop\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.exe.config
+C:\Users\ELVIS\Desktop\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.exe
+C:\Users\ELVIS\Desktop\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.pdb
+C:\Users\ELVIS\Desktop\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.AssemblyReference.cache
+C:\Users\ELVIS\Desktop\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.SuggestedBindingRedirects.cache
+C:\Users\ELVIS\Desktop\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Properties.Resources.resources
+C:\Users\ELVIS\Desktop\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.GenerateResource.cache
+C:\Users\ELVIS\Desktop\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\ELVIS\Desktop\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.exe
+C:\Users\ELVIS\Desktop\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.pdb
+C:\Users\ELVIS\Desktop\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.FormLogin.resources
+C:\Users\ELVIS\Desktop\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.FormAdmin.resources
+C:\Users\DELL\Desktop\PU2\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\bin\Debug\ProyectoFinal.exe.config
+C:\Users\DELL\Desktop\PU2\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\bin\Debug\ProyectoFinal.exe
+C:\Users\DELL\Desktop\PU2\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\bin\Debug\ProyectoFinal.pdb
+C:\Users\DELL\Desktop\PU2\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\PU2\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.FormLogin.resources
+C:\Users\DELL\Desktop\PU2\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.FormAdmin.resources
+C:\Users\DELL\Desktop\PU2\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.Properties.Resources.resources
+C:\Users\DELL\Desktop\PU2\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\PU2\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\PU2\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.exe
+C:\Users\DELL\Desktop\PU2\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.pdb
+C:\Users\DELL\Desktop\PU2\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.MDIPrincipal.resources
+C:\Users\ELVIS\Desktop\PROYECTO UNIDAD II\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\bin\Debug\ProyectoFinal.exe.config
+C:\Users\ELVIS\Desktop\PROYECTO UNIDAD II\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\bin\Debug\ProyectoFinal.exe
+C:\Users\ELVIS\Desktop\PROYECTO UNIDAD II\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\bin\Debug\ProyectoFinal.pdb
+C:\Users\ELVIS\Desktop\PROYECTO UNIDAD II\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.AssemblyReference.cache
+C:\Users\ELVIS\Desktop\PROYECTO UNIDAD II\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.SuggestedBindingRedirects.cache
+C:\Users\ELVIS\Desktop\PROYECTO UNIDAD II\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.FormLogin.resources
+C:\Users\ELVIS\Desktop\PROYECTO UNIDAD II\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.FormAdmin.resources
+C:\Users\ELVIS\Desktop\PROYECTO UNIDAD II\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.FormProgramarCita.resources
+C:\Users\ELVIS\Desktop\PROYECTO UNIDAD II\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.MDIPrincipal.resources
+C:\Users\ELVIS\Desktop\PROYECTO UNIDAD II\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.Properties.Resources.resources
+C:\Users\ELVIS\Desktop\PROYECTO UNIDAD II\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.GenerateResource.cache
+C:\Users\ELVIS\Desktop\PROYECTO UNIDAD II\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\ELVIS\Desktop\PROYECTO UNIDAD II\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.exe
+C:\Users\ELVIS\Desktop\PROYECTO UNIDAD II\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.pdb
+C:\Users\ELVIS\Desktop\PROYECTO UNIDAD II\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.FormCitasProgramadas.resources
+C:\Users\ELVIS\Desktop\PROYECTO UNIDAD II\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.FormEditarAgenda.resources
+E:\Jerson Chambi Cori\CICLO 5\PROGRA 2\PROYECTO2\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\bin\Debug\ProyectoFinal.exe.config
+E:\Jerson Chambi Cori\CICLO 5\PROGRA 2\PROYECTO2\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\bin\Debug\ProyectoFinal.exe
+E:\Jerson Chambi Cori\CICLO 5\PROGRA 2\PROYECTO2\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\bin\Debug\ProyectoFinal.pdb
+E:\Jerson Chambi Cori\CICLO 5\PROGRA 2\PROYECTO2\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.AssemblyReference.cache
+E:\Jerson Chambi Cori\CICLO 5\PROGRA 2\PROYECTO2\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.FormCitasProgramadas.resources
+E:\Jerson Chambi Cori\CICLO 5\PROGRA 2\PROYECTO2\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.FormEditarAgenda.resources
+E:\Jerson Chambi Cori\CICLO 5\PROGRA 2\PROYECTO2\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.FormLogin.resources
+E:\Jerson Chambi Cori\CICLO 5\PROGRA 2\PROYECTO2\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.FormAdmin.resources
+E:\Jerson Chambi Cori\CICLO 5\PROGRA 2\PROYECTO2\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.FormProgramarCita.resources
+E:\Jerson Chambi Cori\CICLO 5\PROGRA 2\PROYECTO2\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.MDIPrincipal.resources
+E:\Jerson Chambi Cori\CICLO 5\PROGRA 2\PROYECTO2\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.Properties.Resources.resources
+E:\Jerson Chambi Cori\CICLO 5\PROGRA 2\PROYECTO2\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.GenerateResource.cache
+E:\Jerson Chambi Cori\CICLO 5\PROGRA 2\PROYECTO2\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.CoreCompileInputs.cache
+E:\Jerson Chambi Cori\CICLO 5\PROGRA 2\PROYECTO2\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.exe
+E:\Jerson Chambi Cori\CICLO 5\PROGRA 2\PROYECTO2\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.pdb
+E:\Jerson Chambi Cori\CICLO 5\PROGRA 2\PROYECTO2\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.RegistroEmpleado.resources
+E:\Jerson Chambi Cori\CICLO 5\PROGRA 2\PROYECTO2\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.RegistrarCliente.resources
+C:\Users\ELVIS\Desktop\ProyectoFinalClonado\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\bin\Debug\ProyectoFinal.exe.config
+C:\Users\ELVIS\Desktop\ProyectoFinalClonado\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\bin\Debug\ProyectoFinal.exe
+C:\Users\ELVIS\Desktop\ProyectoFinalClonado\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\bin\Debug\ProyectoFinal.pdb
+C:\Users\ELVIS\Desktop\ProyectoFinalClonado\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.AssemblyReference.cache
+C:\Users\ELVIS\Desktop\ProyectoFinalClonado\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.SuggestedBindingRedirects.cache
+C:\Users\ELVIS\Desktop\ProyectoFinalClonado\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.FormCitasProgramadas.resources
+C:\Users\ELVIS\Desktop\ProyectoFinalClonado\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.FormEditarAgenda.resources
+C:\Users\ELVIS\Desktop\ProyectoFinalClonado\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.FormLogin.resources
+C:\Users\ELVIS\Desktop\ProyectoFinalClonado\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.FormAdmin.resources
+C:\Users\ELVIS\Desktop\ProyectoFinalClonado\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.FormProgramarCita.resources
+C:\Users\ELVIS\Desktop\ProyectoFinalClonado\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.MDIPrincipal.resources
+C:\Users\ELVIS\Desktop\ProyectoFinalClonado\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.Properties.Resources.resources
+C:\Users\ELVIS\Desktop\ProyectoFinalClonado\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.RegistrarCliente.resources
+C:\Users\ELVIS\Desktop\ProyectoFinalClonado\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.RegistroEmpleado.resources
+C:\Users\ELVIS\Desktop\ProyectoFinalClonado\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.GenerateResource.cache
+C:\Users\ELVIS\Desktop\ProyectoFinalClonado\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\ELVIS\Desktop\ProyectoFinalClonado\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.exe
+C:\Users\ELVIS\Desktop\ProyectoFinalClonado\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.pdb
+E:\Jerson Chambi Cori\CICLO 5\PROGRA 2\PROYECTO2\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.FormReportePacientesAtendidos.resources
+E:\Jerson Chambi Cori\CICLO 5\PROGRA 2\PROYECTO2\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.FormReporteGastos.resources
+E:\Jerson Chambi Cori\CICLO 5\PROGRA 2\PROYECTO2\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.FormReporteHorarioPersonal.resources
+E:\Jerson Chambi Cori\CICLO 5\PROGRA 2\PROYECTO2\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.FormReporteIngresos.resources
+C:\Users\ELVIS\Desktop\ProyectoFinalClonado2\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\bin\Debug\ProyectoFinal.exe.config
+C:\Users\ELVIS\Desktop\ProyectoFinalClonado2\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\bin\Debug\ProyectoFinal.exe
+C:\Users\ELVIS\Desktop\ProyectoFinalClonado2\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\bin\Debug\ProyectoFinal.pdb
+C:\Users\ELVIS\Desktop\ProyectoFinalClonado2\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.AssemblyReference.cache
+C:\Users\ELVIS\Desktop\ProyectoFinalClonado2\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.SuggestedBindingRedirects.cache
+C:\Users\ELVIS\Desktop\ProyectoFinalClonado2\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.FormCitasProgramadas.resources
+C:\Users\ELVIS\Desktop\ProyectoFinalClonado2\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.FormEditarAgenda.resources
+C:\Users\ELVIS\Desktop\ProyectoFinalClonado2\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.FormFacturacion.resources
+C:\Users\ELVIS\Desktop\ProyectoFinalClonado2\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.FormLogin.resources
+C:\Users\ELVIS\Desktop\ProyectoFinalClonado2\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.FormAdmin.resources
+C:\Users\ELVIS\Desktop\ProyectoFinalClonado2\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.FormReportePacientesAtendidos.resources
+C:\Users\ELVIS\Desktop\ProyectoFinalClonado2\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.FormProgramarCita.resources
+C:\Users\ELVIS\Desktop\ProyectoFinalClonado2\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.FormReporteGastos.resources
+C:\Users\ELVIS\Desktop\ProyectoFinalClonado2\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.FormReporteHorarioPersonal.resources
+C:\Users\ELVIS\Desktop\ProyectoFinalClonado2\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.FormReporteIngresos.resources
+C:\Users\ELVIS\Desktop\ProyectoFinalClonado2\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.MDIPrincipal.resources
+C:\Users\ELVIS\Desktop\ProyectoFinalClonado2\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.Properties.Resources.resources
+C:\Users\ELVIS\Desktop\ProyectoFinalClonado2\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.RegistrarCliente.resources
+C:\Users\ELVIS\Desktop\ProyectoFinalClonado2\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.RegistroEmpleado.resources
+C:\Users\ELVIS\Desktop\ProyectoFinalClonado2\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.GenerateResource.cache
+C:\Users\ELVIS\Desktop\ProyectoFinalClonado2\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\ELVIS\Desktop\ProyectoFinalClonado2\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.exe
+C:\Users\ELVIS\Desktop\ProyectoFinalClonado2\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.pdb
+C:\Users\ELVIS\Desktop\ProyectoFinalClonado2\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.FormRegistrodePagos.resources
+C:\Users\Jaime\Downloads\PROYECTO\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\bin\Debug\ProyectoFinal.exe.config
+C:\Users\Jaime\Downloads\PROYECTO\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\bin\Debug\ProyectoFinal.exe
+C:\Users\Jaime\Downloads\PROYECTO\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\bin\Debug\ProyectoFinal.pdb
+C:\Users\Jaime\Downloads\PROYECTO\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.AssemblyReference.cache
+C:\Users\Jaime\Downloads\PROYECTO\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.FormCitasProgramadas.resources
+C:\Users\Jaime\Downloads\PROYECTO\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.FormEditarAgenda.resources
+C:\Users\Jaime\Downloads\PROYECTO\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.FormFacturacion.resources
+C:\Users\Jaime\Downloads\PROYECTO\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.FormLogin.resources
+C:\Users\Jaime\Downloads\PROYECTO\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.FormAdmin.resources
+C:\Users\Jaime\Downloads\PROYECTO\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.FormRegistrodePagos.resources
+C:\Users\Jaime\Downloads\PROYECTO\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.FormReportePacientesAtendidos.resources
+C:\Users\Jaime\Downloads\PROYECTO\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.FormProgramarCita.resources
+C:\Users\Jaime\Downloads\PROYECTO\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.FormReporteGastos.resources
+C:\Users\Jaime\Downloads\PROYECTO\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.FormReporteHorarioPersonal.resources
+C:\Users\Jaime\Downloads\PROYECTO\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.FormReporteIngresos.resources
+C:\Users\Jaime\Downloads\PROYECTO\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.MDIPrincipal.resources
+C:\Users\Jaime\Downloads\PROYECTO\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.Properties.Resources.resources
+C:\Users\Jaime\Downloads\PROYECTO\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.RegistrarCliente.resources
+C:\Users\Jaime\Downloads\PROYECTO\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.RegistrarPaciente.resources
+C:\Users\Jaime\Downloads\PROYECTO\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.RegistroEmpleado.resources
+C:\Users\Jaime\Downloads\PROYECTO\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.GenerateResource.cache
+C:\Users\Jaime\Downloads\PROYECTO\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\Jaime\Downloads\PROYECTO\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.exe
+C:\Users\Jaime\Downloads\PROYECTO\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.pdb
+C:\Users\Jaime\Downloads\PROYECTO\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.FormHistorialVacunacion.resources
+C:\Users\ELVIS\Desktop\ProyectoFinalClonado4\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\bin\Debug\ProyectoFinal.exe.config
+C:\Users\ELVIS\Desktop\ProyectoFinalClonado4\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\bin\Debug\ProyectoFinal.exe
+C:\Users\ELVIS\Desktop\ProyectoFinalClonado4\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\bin\Debug\ProyectoFinal.pdb
+C:\Users\ELVIS\Desktop\ProyectoFinalClonado4\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.AssemblyReference.cache
+C:\Users\ELVIS\Desktop\ProyectoFinalClonado4\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.SuggestedBindingRedirects.cache
+C:\Users\ELVIS\Desktop\ProyectoFinalClonado4\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.FormCitasProgramadas.resources
+C:\Users\ELVIS\Desktop\ProyectoFinalClonado4\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.FormEditarAgenda.resources
+C:\Users\ELVIS\Desktop\ProyectoFinalClonado4\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.FormFacturacion.resources
+C:\Users\ELVIS\Desktop\ProyectoFinalClonado4\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.FormHistorialVacunacion.resources
+C:\Users\ELVIS\Desktop\ProyectoFinalClonado4\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.FormLogin.resources
+C:\Users\ELVIS\Desktop\ProyectoFinalClonado4\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.FormAdmin.resources
+C:\Users\ELVIS\Desktop\ProyectoFinalClonado4\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.FormRegistrodePagos.resources
+C:\Users\ELVIS\Desktop\ProyectoFinalClonado4\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.FormReportedeIngresos.resources
+C:\Users\ELVIS\Desktop\ProyectoFinalClonado4\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.FormReportePacientesAtendidos.resources
+C:\Users\ELVIS\Desktop\ProyectoFinalClonado4\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.FormProgramarCita.resources
+C:\Users\ELVIS\Desktop\ProyectoFinalClonado4\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.FormReporteGastos.resources
+C:\Users\ELVIS\Desktop\ProyectoFinalClonado4\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.FormReporteHorarioPersonal.resources
+C:\Users\ELVIS\Desktop\ProyectoFinalClonado4\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.FormReporteIngresos.resources
+C:\Users\ELVIS\Desktop\ProyectoFinalClonado4\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.MDIPrincipal.resources
+C:\Users\ELVIS\Desktop\ProyectoFinalClonado4\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.Properties.Resources.resources
+C:\Users\ELVIS\Desktop\ProyectoFinalClonado4\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.RegistrarCliente.resources
+C:\Users\ELVIS\Desktop\ProyectoFinalClonado4\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.RegistrarPaciente.resources
+C:\Users\ELVIS\Desktop\ProyectoFinalClonado4\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.RegistroEmpleado.resources
+C:\Users\ELVIS\Desktop\ProyectoFinalClonado4\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.GenerateResource.cache
+C:\Users\ELVIS\Desktop\ProyectoFinalClonado4\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\ELVIS\Desktop\ProyectoFinalClonado4\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.exe
+C:\Users\ELVIS\Desktop\ProyectoFinalClonado4\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.pdb
+E:\Jerson Chambi Cori\CICLO 5\PROGRA 2\PROYECTO2\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.ActualizarRegistroEmpleado.resources
+E:\Jerson Chambi Cori\CICLO 5\PROGRA 2\PROYECTO2\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.FormFacturacion.resources
+E:\Jerson Chambi Cori\CICLO 5\PROGRA 2\PROYECTO2\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.FormHistorialVacunacion.resources
+E:\Jerson Chambi Cori\CICLO 5\PROGRA 2\PROYECTO2\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.FormRegistrodePagos.resources
+E:\Jerson Chambi Cori\CICLO 5\PROGRA 2\PROYECTO2\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.FormReportedeIngresos.resources
+E:\Jerson Chambi Cori\CICLO 5\PROGRA 2\PROYECTO2\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.RegistrarPaciente.resources
+C:\Users\Jaime\Downloads\PROYECTO 2\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\bin\Debug\ProyectoFinal.exe.config
+C:\Users\Jaime\Downloads\PROYECTO 2\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\bin\Debug\ProyectoFinal.exe
+C:\Users\Jaime\Downloads\PROYECTO 2\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\bin\Debug\ProyectoFinal.pdb
+C:\Users\Jaime\Downloads\PROYECTO 2\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.AssemblyReference.cache
+C:\Users\Jaime\Downloads\PROYECTO 2\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.ActualizarRegistroEmpleado.resources
+C:\Users\Jaime\Downloads\PROYECTO 2\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.FormCitasProgramadas.resources
+C:\Users\Jaime\Downloads\PROYECTO 2\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.FormEditarAgenda.resources
+C:\Users\Jaime\Downloads\PROYECTO 2\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.FormFacturacion.resources
+C:\Users\Jaime\Downloads\PROYECTO 2\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.FormHistorialVacunacion.resources
+C:\Users\Jaime\Downloads\PROYECTO 2\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.FormLogin.resources
+C:\Users\Jaime\Downloads\PROYECTO 2\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.FormAdmin.resources
+C:\Users\Jaime\Downloads\PROYECTO 2\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.FormRegistrodePagos.resources
+C:\Users\Jaime\Downloads\PROYECTO 2\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.FormReportedeIngresos.resources
+C:\Users\Jaime\Downloads\PROYECTO 2\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.FormReportePacientesAtendidos.resources
+C:\Users\Jaime\Downloads\PROYECTO 2\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.FormProgramarCita.resources
+C:\Users\Jaime\Downloads\PROYECTO 2\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.FormReporteGastos.resources
+C:\Users\Jaime\Downloads\PROYECTO 2\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.FormReporteHorarioPersonal.resources
+C:\Users\Jaime\Downloads\PROYECTO 2\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.FormReporteIngresos.resources
+C:\Users\Jaime\Downloads\PROYECTO 2\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.MDIPrincipal.resources
+C:\Users\Jaime\Downloads\PROYECTO 2\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.Properties.Resources.resources
+C:\Users\Jaime\Downloads\PROYECTO 2\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.RegistrarCliente.resources
+C:\Users\Jaime\Downloads\PROYECTO 2\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.RegistrarPaciente.resources
+C:\Users\Jaime\Downloads\PROYECTO 2\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.RegistroEmpleado.resources
+C:\Users\Jaime\Downloads\PROYECTO 2\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.GenerateResource.cache
+C:\Users\Jaime\Downloads\PROYECTO 2\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\Jaime\Downloads\PROYECTO 2\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.exe
+C:\Users\Jaime\Downloads\PROYECTO 2\proyectou2-p2_leyva_chambi_flores_chire\ProyectoFinal\obj\Debug\ProyectoFinal.pdb
+C:\Users\ELVIS\Desktop\PROYECTO\ProyectoFinal\bin\Debug\ProyectoFinal.exe.config
+C:\Users\ELVIS\Desktop\PROYECTO\ProyectoFinal\bin\Debug\ProyectoFinal.exe
+C:\Users\ELVIS\Desktop\PROYECTO\ProyectoFinal\bin\Debug\ProyectoFinal.pdb
+C:\Users\ELVIS\Desktop\PROYECTO\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.AssemblyReference.cache
+C:\Users\ELVIS\Desktop\PROYECTO\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.SuggestedBindingRedirects.cache
+C:\Users\ELVIS\Desktop\PROYECTO\ProyectoFinal\obj\Debug\ProyectoFinal.ActualizarRegistroEmpleado.resources
+C:\Users\ELVIS\Desktop\PROYECTO\ProyectoFinal\obj\Debug\ProyectoFinal.FormCitasProgramadas.resources
+C:\Users\ELVIS\Desktop\PROYECTO\ProyectoFinal\obj\Debug\ProyectoFinal.FormEditarAgenda.resources
+C:\Users\ELVIS\Desktop\PROYECTO\ProyectoFinal\obj\Debug\ProyectoFinal.FormFacturacion.resources
+C:\Users\ELVIS\Desktop\PROYECTO\ProyectoFinal\obj\Debug\ProyectoFinal.FormHistorialVacunacion.resources
+C:\Users\ELVIS\Desktop\PROYECTO\ProyectoFinal\obj\Debug\ProyectoFinal.FormLogin.resources
+C:\Users\ELVIS\Desktop\PROYECTO\ProyectoFinal\obj\Debug\ProyectoFinal.FormAdmin.resources
+C:\Users\ELVIS\Desktop\PROYECTO\ProyectoFinal\obj\Debug\ProyectoFinal.FormRegistrodePagos.resources
+C:\Users\ELVIS\Desktop\PROYECTO\ProyectoFinal\obj\Debug\ProyectoFinal.FormReportedeIngresos.resources
+C:\Users\ELVIS\Desktop\PROYECTO\ProyectoFinal\obj\Debug\ProyectoFinal.FormReportePacientesAtendidos.resources
+C:\Users\ELVIS\Desktop\PROYECTO\ProyectoFinal\obj\Debug\ProyectoFinal.FormProgramarCita.resources
+C:\Users\ELVIS\Desktop\PROYECTO\ProyectoFinal\obj\Debug\ProyectoFinal.FormReporteGastos.resources
+C:\Users\ELVIS\Desktop\PROYECTO\ProyectoFinal\obj\Debug\ProyectoFinal.FormReporteHorarioPersonal.resources
+C:\Users\ELVIS\Desktop\PROYECTO\ProyectoFinal\obj\Debug\ProyectoFinal.FormReporteIngresos.resources
+C:\Users\ELVIS\Desktop\PROYECTO\ProyectoFinal\obj\Debug\ProyectoFinal.MDIPrincipal.resources
+C:\Users\ELVIS\Desktop\PROYECTO\ProyectoFinal\obj\Debug\ProyectoFinal.Properties.Resources.resources
+C:\Users\ELVIS\Desktop\PROYECTO\ProyectoFinal\obj\Debug\ProyectoFinal.RegistrarCliente.resources
+C:\Users\ELVIS\Desktop\PROYECTO\ProyectoFinal\obj\Debug\ProyectoFinal.RegistrarPaciente.resources
+C:\Users\ELVIS\Desktop\PROYECTO\ProyectoFinal\obj\Debug\ProyectoFinal.RegistroEmpleado.resources
+C:\Users\ELVIS\Desktop\PROYECTO\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.GenerateResource.cache
+C:\Users\ELVIS\Desktop\PROYECTO\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\ELVIS\Desktop\PROYECTO\ProyectoFinal\obj\Debug\ProyectoFinal.exe
+C:\Users\ELVIS\Desktop\PROYECTO\ProyectoFinal\obj\Debug\ProyectoFinal.pdb
+C:\Users\ELVIS\Desktop\CICLO V\Programacion II\PROYECTO UNIDAD 2\ProyectoFinal\bin\Debug\ProyectoFinal.exe.config
+C:\Users\ELVIS\Desktop\CICLO V\Programacion II\PROYECTO UNIDAD 2\ProyectoFinal\bin\Debug\ProyectoFinal.exe
+C:\Users\ELVIS\Desktop\CICLO V\Programacion II\PROYECTO UNIDAD 2\ProyectoFinal\bin\Debug\ProyectoFinal.pdb
+C:\Users\ELVIS\Desktop\CICLO V\Programacion II\PROYECTO UNIDAD 2\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.AssemblyReference.cache
+C:\Users\ELVIS\Desktop\CICLO V\Programacion II\PROYECTO UNIDAD 2\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.SuggestedBindingRedirects.cache
+C:\Users\ELVIS\Desktop\CICLO V\Programacion II\PROYECTO UNIDAD 2\ProyectoFinal\obj\Debug\ProyectoFinal.ActualizarRegistroEmpleado.resources
+C:\Users\ELVIS\Desktop\CICLO V\Programacion II\PROYECTO UNIDAD 2\ProyectoFinal\obj\Debug\ProyectoFinal.FormCitasProgramadas.resources
+C:\Users\ELVIS\Desktop\CICLO V\Programacion II\PROYECTO UNIDAD 2\ProyectoFinal\obj\Debug\ProyectoFinal.FormEditarAgenda.resources
+C:\Users\ELVIS\Desktop\CICLO V\Programacion II\PROYECTO UNIDAD 2\ProyectoFinal\obj\Debug\ProyectoFinal.FormFacturacion.resources
+C:\Users\ELVIS\Desktop\CICLO V\Programacion II\PROYECTO UNIDAD 2\ProyectoFinal\obj\Debug\ProyectoFinal.FormHistorialVacunacion.resources
+C:\Users\ELVIS\Desktop\CICLO V\Programacion II\PROYECTO UNIDAD 2\ProyectoFinal\obj\Debug\ProyectoFinal.FormLogin.resources
+C:\Users\ELVIS\Desktop\CICLO V\Programacion II\PROYECTO UNIDAD 2\ProyectoFinal\obj\Debug\ProyectoFinal.FormAdmin.resources
+C:\Users\ELVIS\Desktop\CICLO V\Programacion II\PROYECTO UNIDAD 2\ProyectoFinal\obj\Debug\ProyectoFinal.FormRegistrodePagos.resources
+C:\Users\ELVIS\Desktop\CICLO V\Programacion II\PROYECTO UNIDAD 2\ProyectoFinal\obj\Debug\ProyectoFinal.FormReportedeIngresos.resources
+C:\Users\ELVIS\Desktop\CICLO V\Programacion II\PROYECTO UNIDAD 2\ProyectoFinal\obj\Debug\ProyectoFinal.FormReportePacientesAtendidos.resources
+C:\Users\ELVIS\Desktop\CICLO V\Programacion II\PROYECTO UNIDAD 2\ProyectoFinal\obj\Debug\ProyectoFinal.FormProgramarCita.resources
+C:\Users\ELVIS\Desktop\CICLO V\Programacion II\PROYECTO UNIDAD 2\ProyectoFinal\obj\Debug\ProyectoFinal.FormReporteGastos.resources
+C:\Users\ELVIS\Desktop\CICLO V\Programacion II\PROYECTO UNIDAD 2\ProyectoFinal\obj\Debug\ProyectoFinal.FormReporteHorarioPersonal.resources
+C:\Users\ELVIS\Desktop\CICLO V\Programacion II\PROYECTO UNIDAD 2\ProyectoFinal\obj\Debug\ProyectoFinal.FormReporteIngresos.resources
+C:\Users\ELVIS\Desktop\CICLO V\Programacion II\PROYECTO UNIDAD 2\ProyectoFinal\obj\Debug\ProyectoFinal.MDIPrincipal.resources
+C:\Users\ELVIS\Desktop\CICLO V\Programacion II\PROYECTO UNIDAD 2\ProyectoFinal\obj\Debug\ProyectoFinal.Properties.Resources.resources
+C:\Users\ELVIS\Desktop\CICLO V\Programacion II\PROYECTO UNIDAD 2\ProyectoFinal\obj\Debug\ProyectoFinal.RegistrarCliente.resources
+C:\Users\ELVIS\Desktop\CICLO V\Programacion II\PROYECTO UNIDAD 2\ProyectoFinal\obj\Debug\ProyectoFinal.RegistrarPaciente.resources
+C:\Users\ELVIS\Desktop\CICLO V\Programacion II\PROYECTO UNIDAD 2\ProyectoFinal\obj\Debug\ProyectoFinal.RegistroEmpleado.resources
+C:\Users\ELVIS\Desktop\CICLO V\Programacion II\PROYECTO UNIDAD 2\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.GenerateResource.cache
+C:\Users\ELVIS\Desktop\CICLO V\Programacion II\PROYECTO UNIDAD 2\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\ELVIS\Desktop\CICLO V\Programacion II\PROYECTO UNIDAD 2\ProyectoFinal\obj\Debug\ProyectoFinal.exe
+C:\Users\ELVIS\Desktop\CICLO V\Programacion II\PROYECTO UNIDAD 2\ProyectoFinal\obj\Debug\ProyectoFinal.pdb

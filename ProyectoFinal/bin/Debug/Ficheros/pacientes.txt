@@ -1,0 +1,7 @@
+P1;Firulais;perro;Callejera;Macho;05/11/2023;C1
+P2;Yelsi;perro;Nose;Macho;05/11/2023;C2
+P3;Fenix;perro;Canina;Macho;14/11/2023;C3
+P4;Jack;perro;Chusco;Macho;05/11/2023;
+P5;Mauricio;perro;xd;Macho;05/11/2023;
+P6;Erickkcito;Perro;Chusco;Macho;05/11/2023;C1
+P7;Nube;Gato;Siames;Macho;16/07/2015;C1

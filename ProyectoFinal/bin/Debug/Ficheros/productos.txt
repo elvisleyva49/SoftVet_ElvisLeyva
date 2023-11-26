@@ -1,0 +1,4 @@
+PRD1;Galletas;170;5
+PRD2;Leche;165;10
+PRD3;Juguete;165;15
+PRD4;Ropa;110;20
